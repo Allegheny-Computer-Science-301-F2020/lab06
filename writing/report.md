@@ -4,7 +4,7 @@
     TODO
 
 #### Data
- 1. Citation or Title of data set
+ 1. Citation or title of data set
 
  TODO
 
