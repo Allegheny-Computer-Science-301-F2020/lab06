@@ -22,7 +22,7 @@
 
  TODO
 
- 2. What reasons do you have to believe that the relationship exists? Show and discuss plots, correlation results and related evidence)
+ 2. What reasons do you have to believe that the relationship exists? Show and discuss plots, correlation results and related evidence.
 
  TODO
 
